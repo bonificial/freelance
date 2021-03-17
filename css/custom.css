@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.flat-list{
+
+}
+
+.job-listing .job-listing-footer ul li {
+	display: block;
+}
+.primary-border-bottom{
+	border-bottom: 6px solid #ff7a00;
+}
+.service-action-buttons span{
+	margin:0 5px
+}
+.service-action-buttons span:hover{
+	background-color: #ff7a00;
+}
